@@ -32,5 +32,10 @@
   .container__botao {
     display: none;
   }
-    
+  <section class="banner">
+  <h2>Já sabe por onde começar?</h2>
+  <p>Encontre em nossa estante o que precisa para seu desenvolvimento!</p>
+  <input type="search" placeholder="Qual será sua próxima leitura?" />
+</section>
+
   
